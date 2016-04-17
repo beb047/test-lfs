@@ -3,3 +3,4 @@ libX11.so.6.2.0 filter=lfs diff=lfs merge=lfs -text
 Kalimba.mp3 filter=lfs diff=lfs merge=lfs -text
 libwmf-0.2.so.7.1.0 filter=lfs diff=lfs merge=lfs -text
 libz.so.1.2.3 filter=lfs diff=lfs merge=lfs -text
+libXxf86vm.so.1.0.0 filter=lfs diff=lfs merge=lfs -text
